@@ -1,0 +1,10 @@
+.Header{
+  padding:0 1rem;
+  background: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Header img{
+  width: 180px;
+}
